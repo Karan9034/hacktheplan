@@ -47,7 +47,7 @@ It is designed for vendor management, offer several benefits to event planners. 
 
 3. Cost savings: Using Eventopia for vendor management can help event planners save money by reducing the need for manual processes, such as printing and mailing contracts, invoices, and other documents. It can also help prevent costly errors or oversights.
 
-4. Communication: Many event planner applications include communication tools, such as messaging or chat features, which can help event planners stay in touch with vendors throughout the planning process. This can help ensure that everyone is on the same page and prevent misunderstandings or delays.
+4. Communication: It includes communication tools, such as messaging or chat features, which can help event planners stay in touch with vendors throughout the planning process. This can help ensure that everyone is on the same page and prevent misunderstandings or delays.
 
 
 ## What we learnt?
