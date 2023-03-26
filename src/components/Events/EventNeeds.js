@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import eventCard from "./eventCards";
+import EventCards from "./EventCards.js";
 import pic from "../../Assets/events/pic1.jpg";
 import pic2 from "../../Assets/events/pic2.jpg";
 import pic3 from "../../Assets/events/pic3.jpg";
@@ -24,23 +24,22 @@ function Events() {
          <div className="cards" style={{paddingTop: "150px"}}>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="event-card">
-            <eventCard
+            <EventCards
               imgPath={pic}
               title="Venue"
-                           
             />
              
           </Col>
 
           <Col md={4} className="event-card">
-            <eventCard
+            <EventCards
               imgPath={pic2}
               title="Catering"
             />
           </Col>
 
           <Col md={4} className="event-card">
-            <eventCard
+            <EventCards
               imgPath={pic3}
               title="Decor"
                                     
@@ -48,7 +47,7 @@ function Events() {
           </Col>
 
           <Col md={4} className="event-card">
-            <eventCard
+            <EventCards
               imgPath={pic4}
               title="DJ"
               
@@ -56,14 +55,14 @@ function Events() {
           </Col>
 
           <Col md={4} className="event-card">
-            <eventCard
+            <EventCards
               imgPath={pic5}
              title="Photography"
              />
           </Col>
 
           <Col md={4} className="event-card">
-            <eventCard
+            <EventCards
               imgPath={pic6}
               title="Others"
               

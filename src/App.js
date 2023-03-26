@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
 import About from "./components/Home/About";
-import Needs from "./components/Events/eventNeeds";
+import Needs from "./components/Events/EventNeeds";
 
 
 import {
@@ -10,9 +10,8 @@ import {
   Routes,
   Navigate
 } from "react-router-dom";
-import "./style.css";
 import "./App.css";
-import "bootstrap/dist/css/bootstrap.min.css";
+import "./style.css";
 
 function App() {
   const [load, upadateLoad] = useState(true);

@@ -2,22 +2,24 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 
 
-function eventCards(props) {
+function evCards(props) {
+  console.log(props.imgPath)
   return (
-    <Card className="event-card-view">
+    <Card className="  event-cardv" style={{}}>
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
+        <Card.Text style={{ textAlign: "justify" }}>
+          {props.description2}
+        </Card.Text>
+  
         
-        {"\n"}
-        {"\n"}
-
-       
+        
       </Card.Body>
     </Card>
   );
 }
-export default eventCards;
+export default evCards;

@@ -1,8 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homimage from "../../Assets/hom.jpg";
-import eveCard from "./eventList";
-
+import EvCards from "./EventList.js";
 
 function About() {
   return (
@@ -45,7 +44,7 @@ function About() {
           </h1>
           
           <Col md={4} className="event-card">
-            <eveCard
+            <EvCards
             
               title="Hackathons"
             />
@@ -53,7 +52,7 @@ function About() {
           </Col>
 
           <Col md={4} className="event-card">
-            <eveCard
+            <EvCards
              
              title="Weddings"
               
@@ -62,28 +61,28 @@ function About() {
           </Col>
 
           <Col md={4} className="event-card">
-            <eveCard
+            <EvCards
            
               title="Conference"
              />
              
           </Col>
           <Col md={4} className="event-card">
-            <eveCard
+            <EvCards
               
               title="Birthday Party"
              />
              
           </Col>
           <Col md={4} className="event-card">
-            <eveCard
+            <EvCards
              
               title="Cultural festival"
              />
              
           </Col>
           <Col md={4} className="event-card">
-            <eveCard
+            <EvCards
            
                title="Seminars"
              />
