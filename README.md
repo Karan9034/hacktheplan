@@ -43,7 +43,7 @@ It is designed for vendor management, offer several benefits to event planners. 
 
 1. Efficiency: Using an online app for vendor management can help streamline the vendor management process and make it more efficient. It can help event planners manage multiple vendors, track vendor details, and communicate with vendors in one place, saving time and reducing the risk of errors.
 
-2. Organization/Collaboration: Managing vendors for an event can be complex, with multiple details to track, including contracts, payments, and schedules. Event planner applications can help keep all of this information organized and easily accessible, reducing the risk of confusion or mistakes.
+2. Organization/Collaboration: Managing vendors for an event can be complex, with multiple details to track, including contracts, payments, and schedules. Eventopia can help keep all of this information organized and easily accessible, reducing the risk of confusion or mistakes.
 
 3. Cost savings: Using Eventopia for vendor management can help event planners save money by reducing the need for manual processes, such as printing and mailing contracts, invoices, and other documents. It can also help prevent costly errors or oversights.
 
