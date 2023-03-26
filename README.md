@@ -28,7 +28,7 @@ We considered addressing these issues with the help of our project Eventopia.
 It allows event organisers to manage vendor details, contracts, payments, and schedules, as well as communicate with vendors and track their performance.
 
 <p float="center">
-<img src="https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%209.png">
+<img src="https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%209.png?token=GHSAT0AAAAAACACEUOIEY3V4IDEJOBPTC2KZBAD6AA">
 </p>
 <br>
 
@@ -60,5 +60,5 @@ It is designed for vendor management, offer several benefits to event planners. 
 ## Screenshots
 
 
-![Screenshot 2](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%207.png)<br>
-![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png)<br>
+![Screenshot 2](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%207.png?token=GHSAT0AAAAAACACEUOJUTZOGGHFCYRWIA7OZBAD6JQ)<br>
+![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png?token=GHSAT0AAAAAACACEUOJGZ3HFHROBICU5JYSZBAD5MA)<br>
