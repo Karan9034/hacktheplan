@@ -3,9 +3,8 @@ import Card from "react-bootstrap/Card";
 
 
 function EventCards(props) {
-  console.log(props.imgPath)
   return (
-    <Card className="event-card-view">
+    <Card className="event-card-view" style={{cursor: "pointer"}}>
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>

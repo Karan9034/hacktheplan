@@ -3,7 +3,6 @@ import Card from "react-bootstrap/Card";
 
 
 function evCards(props) {
-  console.log(props.imgPath)
   return (
     <Card className="  event-cardv" style={{}}>
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />

@@ -2,23 +2,22 @@ import React, { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
 import About from "./components/Home/About";
 import Needs from "./components/Events/EventNeeds";
-
+import EventDetails from "./components/Events/EventDetails";
 
 import {
   BrowserRouter as Router,
   Route,
-  Routes,
-  Navigate
+  Routes
 } from "react-router-dom";
 import "./App.css";
 import "./style.css";
 
 function App() {
-  const [load, upadateLoad] = useState(true);
+  const [load, updateLoad] = useState(true);
 
   useEffect(() => {
     const timer = setTimeout(() => {
-      upadateLoad(false);
+      updateLoad(false);
     }, 1200);
 
     return () => clearTimeout(timer);
@@ -33,8 +32,8 @@ function App() {
           <Route path="/" element={<About />} />
           <Route path="/about" element={<About />} />
           <Route path="/needs" element={<Needs />} />
+          <Route path="/needs/:category" element={<EventDetails />} />
         </Routes>
-        
       </div>
     </Router>
   );
