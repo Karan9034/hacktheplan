@@ -28,7 +28,7 @@ We considered addressing these issues with the help of our project Eventopia.
 It allows event organisers to manage vendor details, contracts, payments, and schedules, as well as communicate with vendors and track their performance.
 
 <p float="left">
-<img src="https://github.com/prachi237/hacktheplan/blob/master/Frame%209.png" width="500" height="400">
+<img src="https://github.com/prachi237/hacktheplan/blob/master/Frame%209.png">
 </p>
 <br>
 
