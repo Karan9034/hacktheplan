@@ -6,7 +6,7 @@ Hack that helps party planners, event organizers, and anyone else who loves brin
 
 ## Inspiration
 
-Event planning is often inspired by the desire to create a memorable experience for guests, whether it's a wedding, corporate event, charity gala, or other special occasion. Event planning is the desire to bring people together. Events are an opportunity to connect with others, build relationships, and create a sense of community. 
+Event planning is often inspired by the desire to create a memorable experience for guests, whether it's a wedding, corporate event, charity gala, or other special occasion. Event planning is the desire to bring people together. Events are an opportunity to connect with others, build relationships, and create a sense of community.
 
 ## Problem Statement:
 Vendor management is a critical component of event planning, and problems with vendors can cause significant issues for event planners.
@@ -52,11 +52,10 @@ It is designed for vendor management, offer several benefits to event planners. 
 
 
 ## What we learnt?
-1. We learnt how to do sever side deployment in local machine. 
-2  First time we tried Integrating Google Maps API
-3. Hosting website in Github-pages 
-4. Configuring DNS records for custom domain.
-5. We learnt on how to manage our time and work in a team.
+1. We learnt to use Docker which is a prerequisite for using Appwrite.
+2. For the first time, we tried our hands on Appwrite, which is backend-as-a-service platform.
+3. Hosting website in Github-pages.
+4. We learnt on how to manage our time and work in a team.
 
 ## Screenshots
 
