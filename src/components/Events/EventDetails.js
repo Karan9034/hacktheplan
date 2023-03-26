@@ -45,6 +45,10 @@ function EventDetails() {
                         >
                             <EventCards
                                 title={doc.name}
+                                imgPath={doc.imgPath}
+                                contact={doc.contact}
+                                description={doc.description}
+                                location={doc.location}
                             />
                         </Col>
                     })}

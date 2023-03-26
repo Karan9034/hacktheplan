@@ -10,6 +10,10 @@ function EventCards(props) {
         <Card.Title>{props.title}</Card.Title>
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
+          <br/>
+          {props.location ? `Location: ${props.location}`: ""}
+          <br/>
+          {props.contact ? `Contact: +91${props.contact}`: ""}
         </Card.Text>
         
         {"\n"}
