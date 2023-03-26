@@ -27,8 +27,8 @@ Some common vendor management problems include:
 We considered addressing these issues with the help of our project Eventopia.
 It allows event organisers to manage vendor details, contracts, payments, and schedules, as well as communicate with vendors and track their performance.
 
-<p float="left">
-<img src="https://github.com/prachi237/hacktheplan/blob/master/Frame%209.png">
+<p float="center">
+<img src="https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%209.png">
 </p>
 <br>
 
@@ -60,8 +60,5 @@ It is designed for vendor management, offer several benefits to event planners. 
 ## Screenshots
 
 
-![Screenshot 1](https://github.com/prachi237/hack-ccelerate/blob/master/1.jpeg)<br>
-![Screenshot 2](https://github.com/prachi237/hack-ccelerate/blob/master/2.jpeg)<br>
-![Screenshot 3](https://github.com/prachi237/hack-ccelerate/blob/master/3.jpeg)<br>
-![Screenshot 4](https://github.com/prachi237/hack-ccelerate/blob/master/4.jpeg)<br>
-![Screenshot 5](https://github.com/prachi237/hack-ccelerate/blob/master/5.jpeg)<br>
+![Screenshot 2](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%207.png)<br>
+![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png)<br>
