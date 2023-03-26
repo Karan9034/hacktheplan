@@ -33,14 +33,13 @@ It allows event organisers to manage vendor details, contracts, payments, and sc
 <br>
 
 ## Challenges we ran into :
-1. Integrating Google Maps API
+1. Installing Docker and integrating Appwrite
 2. Hosting website in Github-pages
-3. Configuring DNS records for custom domain.
-4. Time Management
+3. Time Management
 
 
 ## Why Eventopia?
-It is designed for vendor management, offer several benefits to event planners. Here are some of the reasons why Wventopia?
+It is designed for vendor management, offer several benefits to event planners. Here are some of the reasons why Eventopia?
 
 1. Efficiency: Using an online app for vendor management can help streamline the vendor management process and make it more efficient. It can help event planners manage multiple vendors, track vendor details, and communicate with vendors in one place, saving time and reducing the risk of errors.
 
@@ -59,6 +58,9 @@ It is designed for vendor management, offer several benefits to event planners. 
 
 ## Screenshots
 
-
 ![Screenshot 2](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%207.png?token=GHSAT0AAAAAACACEUOJUTZOGGHFCYRWIA7OZBAD6JQ)<br>
+![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png?token=GHSAT0AAAAAACACEUOJGZ3HFHROBICU5JYSZBAD5MA)<br>
+![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png?token=GHSAT0AAAAAACACEUOJGZ3HFHROBICU5JYSZBAD5MA)<br>
+![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png?token=GHSAT0AAAAAACACEUOJGZ3HFHROBICU5JYSZBAD5MA)<br>
+![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png?token=GHSAT0AAAAAACACEUOJGZ3HFHROBICU5JYSZBAD5MA)<br>
 ![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png?token=GHSAT0AAAAAACACEUOJGZ3HFHROBICU5JYSZBAD5MA)<br>
