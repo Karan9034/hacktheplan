@@ -58,9 +58,10 @@ It is designed for vendor management, offer several benefits to event planners. 
 
 ## Screenshots
 
-![Screenshot 2](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%207.png?token=GHSAT0AAAAAACACEUOJUTZOGGHFCYRWIA7OZBAD6JQ)<br>
-![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png?token=GHSAT0AAAAAACACEUOJGZ3HFHROBICU5JYSZBAD5MA)<br>
-![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png?token=GHSAT0AAAAAACACEUOJGZ3HFHROBICU5JYSZBAD5MA)<br>
-![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png?token=GHSAT0AAAAAACACEUOJGZ3HFHROBICU5JYSZBAD5MA)<br>
-![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png?token=GHSAT0AAAAAACACEUOJGZ3HFHROBICU5JYSZBAD5MA)<br>
-![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png?token=GHSAT0AAAAAACACEUOJGZ3HFHROBICU5JYSZBAD5MA)<br>
+![Screenshot 1](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%207.png?token=GHSAT0AAAAAACACEUOJUTZOGGHFCYRWIA7OZBAD6JQ)<br>
+![Screenshot 2](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/Frame%208.png?token=GHSAT0AAAAAACACEUOJGZ3HFHROBICU5JYSZBAD5MA)<br>
+![Screenshot 3](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/1.png?token=GHSAT0AAAAAACACEUOJ4PSDRLLA45GBQC2UZBAEGAA)<br>
+![Screenshot 4](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/2.png?token=GHSAT0AAAAAACACEUOJSJMUUFZ5MZP5H2TQZBAEGIQ)<br>
+![Screenshot 5](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/3.png?token=GHSAT0AAAAAACACEUOJAGJEUBT3NP5H5RNMZBAEGTA)<br>
+![Screenshot 6](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/5.png?token=GHSAT0AAAAAACACEUOJZELNKORG2HJ47U7OZBAEHPA)<br>
+![Screenshot 7](https://raw.githubusercontent.com/Karan9034/hacktheplan/master/4.png?token=GHSAT0AAAAAACACEUOJZGEZV44VOXG3GJMOZBAEG7A)<br>
